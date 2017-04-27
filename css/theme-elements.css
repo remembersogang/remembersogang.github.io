@@ -2240,7 +2240,7 @@ Icon Box
 .icon-box.medium > h3,
 .icon-box.medium > h4 {
     margin: 0 12px 10px 84px;
-    color: #fff;
+    color: #1ABC9C;
 }
 .icon-box.medium > p {
     margin: 0 0 20px 84px;
@@ -6054,7 +6054,7 @@ PRICING TABLE
 .pricing-table .plan .plan-header .plan-price {
     font-size: 50px;
     font-weight: 600;
-    color: #fff;
+    color: #1ABC9C;
     position: relative;
     text-align: center;
     padding: 0;
