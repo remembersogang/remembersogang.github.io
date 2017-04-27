@@ -6035,7 +6035,7 @@ PRICING TABLE
 }
 .pricing-table .plan .plan-header {
     position: relative;
-    background: #34495e;
+    background: #1ABC9C;
     padding: 22px 22px;
     text-align: center;
 }
@@ -6092,7 +6092,7 @@ PRICING TABLE
     margin-right: 12px;
 }
 .pricing-table .plan-list ul li span {
-    color: #34495e;
+    color: #1ABC9C;
 }
 .pricing-table .plan.featured {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
