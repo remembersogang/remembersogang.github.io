@@ -519,7 +519,7 @@ nav.mega-menu li ul {
     padding: 0;
 }
 nav.mega-menu a:hover {
-    color: #34b9d7;
+    color: #1ABC9C;
 }
 nav.mega-menu .dropdown-menu a,
 nav.mega-menu .dropdown-submenu > span.dropdown-menu-title-only {
@@ -1492,7 +1492,7 @@ body.top-search-active .logo {
     opacity: 0;
 }
 #header #top-cart a:hover {
-    color: #34b9d7;
+    color: #1ABC9C;
 }
 #header #top-search form {
     opacity: 0;
