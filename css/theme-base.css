@@ -2513,14 +2513,15 @@ SIDEBAR MENU
 body.device-sm .sidebar .widget {
     float: left;
     width: 330px;
+    margin-right: 30px;
 }
 body.device-xs .sidebar .widget {
     width: 100%;
 }
-body.device-sm .sidebar .widget:nth-child(odd),
-body.device-xs .sidebar .widget:nth-child(odd) {
-    margin-right: 30px;
-}
+/*body.device-sm .sidebar .widget:nth-child(odd),*/
+/*body.device-xs .sidebar .widget:nth-child(odd) {*/
+/*    margin-right: 30px;*/
+/*}*/
 footer .widget-tags .tags a {
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
